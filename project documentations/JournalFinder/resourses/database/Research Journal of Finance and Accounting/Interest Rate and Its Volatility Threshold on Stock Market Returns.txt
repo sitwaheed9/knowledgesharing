@@ -1,0 +1,8 @@
+Interest Rate and Its Volatility Threshold on Stock Market Returns: Evidence from Ghana and South Africa
+Kofi B. Afful
+
+Abstract
+
+This study argues that macroeconomic theory, which espouses a threshold, best explains the interest rate-return relation in emerging economies. Consequently, it develops a quantile regression model with nonlinear variables to examine this, with a focus on Ghana and South Africa. The threshold interest rate for the former country, 25.7 percent, significantly exceeds that of the latter, 6.84 percent. Furthermore, the nonlinear interest rate component raises returns in Ghana. In South Africa, interest rate volatility increases returns. Also, there is a direct interest rate-return interaction in Ghana. At lower quantiles, however, the interest rate volatility-return interaction erodes returns in both countries.
+
+Keywords: interest rate-return threshold, interest rate volatility, quantile regressions, nonlinear model.

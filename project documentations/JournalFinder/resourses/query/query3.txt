@@ -1,0 +1,28 @@
+Image-based Face Detection and Recognition: based Face Detection and Recognition: based Face Detection and Recognition:
+“State of the A “State of the Art”
+
+ Department of Computer Science & Engineering, Beijing University of Aeronautics & Astronautics
+ Department of Computer Science, COMSATS Institute of Information Technology
+ Department of Information Technology, Education University
+
+Abstract
+Face recognition from image or video is a popular topic in
+biometrics research. Many public places usually have
+surveillance cameras for video capture and these cameras have
+their significant value for security purpose. It is widely
+acknowledged that the face recognition have played an important
+role in surveillance system as it doesn’t need the object’s
+cooperation. The actual advantages of face based identification
+over other biometrics are uniqueness and acceptance. As human
+face is a dynamic object having high degree of variability in its
+appearance, that makes face detection a difficult problem in
+computer vision. In this field, accuracy and speed of
+identification is a main issue.
+The goal of this paper is to evaluate various face detection and
+recognition methods, provide complete solution for image based
+face detection and recognition with higher accuracy, better
+response rate as an initial step for video surveillance. Solution is
+proposed based on performed tests on various face rich databases
+in terms of subjects, pose, emotions, race and light.
+Keywords: Face Detection, Face Recognition, Biometrics, Face
+Identification.

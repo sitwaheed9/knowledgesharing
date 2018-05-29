@@ -1,0 +1,21 @@
+Diabetes mellitus and the risk of aneurysmal subarachnoid haemorrhage: A systematic review and meta-analysis of current evidence
+
+Diabetes mellitus and the risk of aneurysmal subarachnoid haemorrhage: A systematic review and meta-analysis of current evidence
+Xi-Yang Yao*, Cai-Qi Jiang*, Gen-Lai Jia, Gang Chen
+First Published November 7, 2016
+PDF download for Diabetes mellitus and the risk of aneurysmal subarachnoid haemorrhage: A systematic review and meta-analysis of current evidence	Article Information
+  Open Access  Creative Commons Attribution, Non Commercial 3.0 License
+Abstract
+Objective
+This systematic review aimed to define the relationship between diabetes mellitus (DM) and the risk of aneurysmal subarachnoid haemorrhage (aSAH).
+
+Methods
+Studies associated with DM and aSAH published until March 2016 were retrieved from Pubmed, Embase, Web of Science, and Cochrane Library databases. A random-effects model was used to calculate the relative risks (RRs) with 95% confidence intervals (CIs).
+
+Results
+Eighteen observational studies were retrieved. The overall RRs for DM and aSAH were RRs = 0.59 (0.44, 0.79), with moderate heterogeneity (I2 = 55.7%, Pheterogeneity = 0.000). Subgroup analysis by study quality revealed a reduced association between DM and aSAH risk in high quality studies only (RRs = 0.40, 95% CI: 0.29, 0.56; I2 = 0.0%, Pheterogeneity = 0.549), therefore study quality may be a source of heterogeneity.
+
+Conclusion
+A potential decreased risk of aSAH in DM patients was found in high quality studies. Further studies are required to confirm this causal relationship and to investigate the biological mechanisms.
+
+Keywords Diabetes, intracranial aneurysm, meta-analysis, subarachnoid hemorrhage, systematic review

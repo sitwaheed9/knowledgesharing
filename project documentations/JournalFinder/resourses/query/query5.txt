@@ -1,0 +1,6 @@
+Evaluation of Interest Point Detectors
+
+Abstract
+Many different low-level feature detectors exist and it is widely agreed that the evaluation of detectors is important. In this paper we introduce two evaluation criteria for interest points' repeatability rate and information content. Repeatability rate evaluates the geometric stability under different transformations. Information content measures the distinctiveness of features. Different interest point detectors are compared using these two criteria. We determine which detector gives the best results and show that it satisfies the criteria well.
+
+interest points quantitative evaluation comparison of detectors repeatability information content 

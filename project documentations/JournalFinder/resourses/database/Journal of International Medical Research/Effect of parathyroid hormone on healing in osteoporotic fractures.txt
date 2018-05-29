@@ -1,0 +1,16 @@
+Effect of parathyroid hormone on healing in osteoporotic fractures via a phospholipase C-independent pathway
+
+Abstract
+Objective
+This study was performed to investigate the effect of parathyroid hormone (PTH) on healing in osteoporotic fractures via a phospholipase C (PLC)-independent pathway and explore the mechanism of PTH-mediated bone formation.
+
+Methods
+Ninety-six 12-week-old C57BL/6J female mice underwent bilateral ovariectomy. One month later, the lower third of the femur was fractured and the mice were treated using saline, PTH(1-28), PTH(1-34), zoledronic acid (ZA), PTH(1-28)+ZA, and PTH(1-34)+ZA. The mice were killed at weeks 2 and 4 in each group. Biomechanical testing and micro-computed tomography were performed.
+
+Results
+The formation and strength of the callus increased in all but the saline group. The mice treated with PTH(1-34) showed a significantly higher ultimate bending force, bending rigidity, bone mineral density, percent bone volume, and trabecular thickness than those treated with PTH(1-28). The PTH(1-34)+ZA group demonstrated the greatest improvements in the ultimate bending force, bending rigidity, bone mineral density, and relative bone volume.
+
+Conclusions
+PTH can promote fracture healing and callus hardness in ovariectomized mice by increasing callus formation and reconstructing trabecular bone via a PLC-independent pathway. PTH combined with ZA has a cumulative effect on the healing of fractures in ovariectomized mice.
+
+Keywords Parathyroid hormone, signaling pathway, zoledronic acid, osteoporotic fracture

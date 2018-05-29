@@ -1,0 +1,8 @@
+Representing and Recognizing the Visual Appearance of Materials using Three-dimensional Textons
+
+Abstract
+We study the recognition of surfaces made from different materials such as concrete, rug, marble, or leather on the basis of their textural appearance. Such natural textures arise from spatial variation of two surface attributes: (1) reflectance and (2) surface normal. In this paper, we provide a unified model to address both these aspects of natural texture. The main idea is to construct a vocabulary of prototype tiny surface patches with associated local geometric and photometric properties. We call these 3D textons. Examples might be ridges, grooves, spots or stripes or combinations thereof. Associated with each texton is an appearance vector, which characterizes the local irradiance distribution, represented as a set of linear Gaussian derivative filter outputs, under different lighting and viewing conditions.
+
+Given a large collection of images of different materials, a clustering approach is used to acquire a small (on the order of 100) 3D texton vocabulary. Given a few (1 to 4) images of any material, it can be characterized using these textons. We demonstrate the application of this representation for recognition of the material viewed under novel lighting and viewing conditions. We also illustrate how the 3D texton model can be used to predict the appearance of materials under novel conditions.
+
+3D texture texture recognition texture synthesis natural material recognition 

@@ -1,0 +1,4 @@
+Computation and analysis of image motion: A synopsis of current problems and methods
+
+Abstract
+The goal of this paper is to offer a structured synopsis of the problems in image motion computation and analysis, and of the methods proposed, exposing the underlying models and supporting assumptions. A sufficient number of pointers to the literature will be given, concentrating mostly on recent contributions. Emphasis will be on the detection, measurement and segmentation of image motion. Tracking, and deformable motion issues will be also addressed. Finally, a number of related questions which could require more investigations will be presented.

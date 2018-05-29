@@ -1,0 +1,16 @@
+Factors affecting recovery from anaesthesia with propofol–remifentanil target-controlled infusion in laparoscopic surgery
+
+Abstract
+Objective
+This study was performed to analyse factors influencing the effect-site concentration (Ce) of propofol at return of consciousness (ROC) with target-controlled infusion of propofol–remifentanil after laparoscopic surgery.
+
+Methods
+In total, 112 patients who underwent laparoscopic surgery under general anaesthesia were given propofol at the target concentration of 3.5 µg/ml. Remifentanil (Ce: 4.0 ng/ml) and 0.9 mg/kg of rocuronium were administered when the Observer’s Assessment of Alertness/Sedation score reached 1. Two minutes after injection of rocuronium, tracheal intubation was initiated. The bispectral index (BIS) was maintained between 45 and 55.
+
+Results
+Ce values of propofol at loss of consciousness (LOC) and ROC were significantly correlated. Age was significantly correlated with Ce of propofol at ROC. At LOC, propofol Ce values of patients aged 65–80, 45–64, and 20–44 years were 1.8 ± 0.8, 2.2 ± 0.7, and 2.3 ± 0.8 µg/ml, respectively, and the BIS was 70 ± 10, 68 ± 7, and 69 ± 10, respectively. At ROC, the propofol Ce values of the three groups were 1.2 ± 0.3, 1.4 ± 0.3, and 1.5 ± 0.3 µg/ml, respectively, and the BIS was 80 ± 5, 82 ± 6, and 83 ± 6, respectively.
+
+Conclusions
+The concentration of propofol at ROC was significantly affected by age, and ROC of propofol–remifentanil anaesthesia after laparoscopic surgery was well predicted by the concentration at LOC.
+
+Keywords Propofol, target-controlled infusion, effect-site concentration, loss of consciousness, return of consciousness

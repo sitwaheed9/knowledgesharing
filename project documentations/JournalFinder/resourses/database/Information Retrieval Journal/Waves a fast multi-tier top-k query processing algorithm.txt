@@ -1,0 +1,8 @@
+Waves: a fast multi-tier top-k query processing algorithm
+
+Abstract
+In this paper, we present Waves, a novel document-at-a-time algorithm for fast computing of top-k query results in search systems. The Waves algorithm uses multi-tier indexes for processing queries. It performs successive tentative evaluations of results which we call waves. Each wave traverses the index, starting from a specific tier level i. Each wave i may insert only those documents that occur in that tier level into the answer. After processing a wave, the algorithm checks whether the answer achieved might be changed by successive waves or not. A new wave is started only if it has a chance of changing the top-k scores. We show through experiments that such lazy query processing strategy results in smaller query processing times when compared to previous approaches proposed in the literature. We present experiments to compare Waves’ performance to the state-of-the-art document-at-a-time query processing methods that preserve top-k results and show scenarios where the method can be a good alternative algorithm for computing top-k results.
+
+Keywords
+
+Information retrieval Query processing Search system 
